@@ -1,0 +1,6 @@
+title: Kyklos Institute
+description: >- 
+  A blog about my personal thoughts and experiences.
+baseurl: "/"
+url: "https://george-masto.github.io"
+theme: jekyll-theme-minimal
